@@ -1,0 +1,4 @@
+pandas
+nympy
+Joblib
+streamlit
