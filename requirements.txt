@@ -3,4 +3,4 @@ numpy
 Joblib
 streamlit
 xgboost
-scikitlearn
+scikit-learn
